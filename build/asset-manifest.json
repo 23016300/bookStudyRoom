@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookStudyRoom/static/css/main.e32e15de.css",
+    "main.js": "/bookStudyRoom/static/js/main.9f105a8a.js",
+    "static/js/453.670e15c7.chunk.js": "/bookStudyRoom/static/js/453.670e15c7.chunk.js",
+    "index.html": "/bookStudyRoom/index.html",
+    "main.e32e15de.css.map": "/bookStudyRoom/static/css/main.e32e15de.css.map",
+    "main.9f105a8a.js.map": "/bookStudyRoom/static/js/main.9f105a8a.js.map",
+    "453.670e15c7.chunk.js.map": "/bookStudyRoom/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e32e15de.css",
+    "static/js/main.9f105a8a.js"
+  ]
+}
